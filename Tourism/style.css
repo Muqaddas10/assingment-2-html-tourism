@@ -1,0 +1,27 @@
+h1{
+    color: green;
+    font-size: xx-large;
+}
+h2{
+    color: green;
+}
+#top{
+    row-gap: 20px;
+    color: indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+body{
+    background-color :rgb(81, 149, 175);
+    font-size: x-large;
+    font-style: oblique;
+}
+.abc{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    color: black
+}
+p{ font-style: normal;
+color: darkred;
+font-size: x-large;}
